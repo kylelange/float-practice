@@ -1,10 +1,10 @@
-# _Template_
+# _CSS practice_
 
-#### By _Ewa Manek_
+#### By _Kevin Johnston and Ethan Law_
 
 ## Description
 
-_A template for javascript with node.js in the backend, backend dependencies managed by gulp, frontend by bower, and css by sass_
+_A css project using a gulp template with node.js in the backend, backend dependencies managed by gulp, frontend by bower, and css by sass_
 
 ## Setup/Installation Requirements
 
@@ -25,4 +25,4 @@ https://github.com/ewajm/gulp-template
 
 * MIT
 
-Copyright (c) 2016 **_Ewa Manek_**
+Copyright (c) 2016 **_Kevin Johnston_**
