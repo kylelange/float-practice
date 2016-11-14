@@ -14,15 +14,11 @@ _A css project using a gulp template with node.js in the backend, backend depend
 * _Run npm install_
 * _run bower install_
 * _run gulp build to build the project for the first time and gulp serve to start the development server_
-* _assuming you get an alert and your h1 is kind of orangeypink you should be good to go!_
 
 
-## GitHub link
-
-https://github.com/ewajm/gulp-template
 
 ## Licensing
 
 * MIT
 
-Copyright (c) 2016 **_Kevin Johnston_**
+Copyright (c) 2016 **_Kevin Johnston & Ethan Law_**

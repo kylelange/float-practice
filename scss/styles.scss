@@ -2,4 +2,69 @@ $color: 	#d36154;
 
 h1 {
   color: $color;
+  background-color: orange;
+}
+
+h3 {
+  height: 1em;
+}
+
+.container {
+  margin: 5px;
+}
+
+.profile-group {
+  max-width: 1200px;
+  display: block;
+  margin: auto;
+}
+
+.profile-tile:nth-child(even) > .prof-pic {
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  -ms-transform: scaleX(-1);
+  transform: scaleX(-1);
+  -ms-filter: "FlipH";
+  filter: FlipH;
+}
+
+.prof-name {
+  text-align: center;
+  color: royalblue;
+}
+
+.prof-pic {
+  height: 200px;
+  width: auto;
+  display: block;
+  margin: auto;
+  border: solid 2px royalblue;
+  margin: 3px;
+}
+
+.profile-tile {
+  width: 210px;
+  display: inline-block;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  // float: left;
+}
+
+.online {
+  height: auto;
+  width: 180px;
+  display: block;
+  margin: auto;
+}
+
+#number-of-friends, {
+  color: red;
+}
+
+#bottom-link {
+  color: red;
+  text-align: right;
+  margin-right: 100px
 }
