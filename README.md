@@ -1,10 +1,10 @@
 # _CSS practice_
 
-#### By _Kevin Johnston and Ethan Law_
+#### By _Kyle Lange and Garrett Price_
 
 ## Description
 
-_A css project using a gulp template with node.js in the backend, backend dependencies managed by gulp, frontend by bower, and css by sass_
+_A project to practice 2 column layout using float and clear._
 
 ## Setup/Installation Requirements
 
@@ -15,10 +15,13 @@ _A css project using a gulp template with node.js in the backend, backend depend
 * _run bower install_
 * _run gulp build to build the project for the first time and gulp serve to start the development server_
 
+## Technologies Used
 
+* HTML5
+* CSS3
 
 ## Licensing
 
 * MIT
 
-Copyright (c) 2016 **_Kevin Johnston & Ethan Law_**
+Copyright (c) 2016 **_Kyle Lange and Garrett Price_**
