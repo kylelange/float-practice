@@ -1,6 +1,72 @@
-$color: 	#d36154;
+
+
+body, html {
+  margin: 0;
+  padding: 0;
+  color: #000;
+  background: #a7a09a;
+}
 
 h1 {
-  color: $color;
-  background-color: orange;
+  margin: 0;
+  text-align: center;
+}
+
+#nav li {
+  display: inline;
+  margin-left: 10%;
+  padding: 0;
+}
+
+
+#wrap {
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+  background: #99c;
+}
+
+// header {
+//   background: #ddd;
+// }
+
+#header {
+  padding: 5px 10px;
+  height: auto;
+}
+
+#nav {
+  background: #c99;
+  padding: 10px;
+  height: auto;
+
+}
+
+#nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#main {
+  background: #9c9;
+  float: left;
+  width: 66%;
+  height: auto;
+  padding: 10px;
+
+}
+
+#sidebar {
+  background: #99c;
+  float: right;
+  width: 28%;
+  height: auto;
+  padding: 10px;
+}
+
+#footer {
+  background: #cc9;
+  clear: both;
+  padding: 10px;
 }
