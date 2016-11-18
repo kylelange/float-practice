@@ -1,6 +1,8 @@
-# _CSS practice_
+# _CSS Float Practice_
 
 #### By _Kyle Lange and Garrett Price_
+
+![screenshot](Screen Shot.png)
 
 ## Description
 
@@ -20,8 +22,17 @@ _A project to practice 2 column layout using float and clear._
 * HTML5
 * CSS3
 
-## Licensing
+## Known Bugs
 
-* MIT
+_{no known bugs at this time}_
 
-Copyright (c) 2016 **_Kyle Lange and Garrett Price_**
+## Support and contact details
+
+For questions, concerns, or suggestions please email baronsintrees@gmail.com
+
+
+### License
+
+*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+
+Copyright (c) 2016 **_Kyle Lange & Garrett Price_**
